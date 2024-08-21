@@ -69,7 +69,7 @@
 	"id": "https://raw.githubusercontent.com/jgb-hda/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?person_annotation_20240821174807240",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-21T15:48:07.240Z",
-	"dcterms:modified": "2024-08-21T15:49:27.737Z",
+	"dcterms:modified": "2024-08-21T15:50:07.428Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jgb-hda",
 		"@type": [
